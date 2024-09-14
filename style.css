@@ -1,0 +1,47 @@
+.title {
+    text-align: center;
+    background-color: beige;
+}
+
+#main_image {
+    text-align: center;
+}
+
+.food_pic {
+    border: 2px solid black;
+}
+
+.food_pic.thumbnail {
+    width: 200px;
+    height: 200px;
+}
+
+.food_pic.main {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipies{
+    list-style-type: none;
+}
+
+.recipies li {
+    font-size: large;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text.heading {
+    text-align: center;
+}
+
+
+#ingredients li {
+    color: blue;
+    list-style-type:circle;
+    font-size: large;
+}
